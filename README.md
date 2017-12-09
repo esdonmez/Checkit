@@ -3,10 +3,10 @@ ToDo List project for iOS with Swift 4.
 
 ## Images
 <div>
-  <img width="200" src="/ScreenShots/IMG_1292.png">
-  <img width="200" src="/ScreenShots/IMG_1293.png">
-  <img width="200" src="/ScreenShots/IMG_1294.png">
-  <img width="200" src="/ScreenShots/IMG_1295.png">
+  <img width="200" src="/ScreenShots/IMG_1292.PNG">
+  <img width="200" src="/ScreenShots/IMG_1293.PNG">
+  <img width="200" src="/ScreenShots/IMG_1294.PNG">
+  <img width="200" src="/ScreenShots/IMG_1295.PNG">
 </div>
 
 ## Requirement
