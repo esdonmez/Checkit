@@ -27,11 +27,9 @@ $ git clone https://github.com/onurcelikeng/Checkit.git
 ```
 
 ## To-do list
-  - [x] Local storage
+  - [x] Local Storage
   - [x] Today Extension
-  - [x] Sticker Pack Extension
   - [x] Local Notification
-  - [ ] SiriKit
 
 ## Contributing
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
