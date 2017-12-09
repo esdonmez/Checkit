@@ -3,13 +3,10 @@ ToDo List project for iOS with Swift 4.
 
 ## Images
 <div>
-  <img width="200" src="/ScreenShots/IMG_1724.png">
-  <img width="200" src="/ScreenShots/IMG_1725.png">
-  <img width="200" src="/ScreenShots/IMG_1727.png">
-  <img width="200" src="/ScreenShots/IMG_1728.png">
-  <img width="200" src="/ScreenShots/IMG_1729.png">
-  <img width="200" src="/ScreenShots/IMG_1730.png">
-  <img width="200" src="/ScreenShots/IMG_1731.png">
+  <img width="200" src="/ScreenShots/IMG_1292.png">
+  <img width="200" src="/ScreenShots/IMG_1293.png">
+  <img width="200" src="/ScreenShots/IMG_1294.png">
+  <img width="200" src="/ScreenShots/IMG_1295.png">
 </div>
 
 ## Requirement
@@ -45,6 +42,7 @@ $ git clone https://github.com/onurcelikeng/Checkit.git
 
 ## Authors
 * **Onur Celik** - [GitHub](https://github.com/onurcelikeng)
+* **Elif Seray Donmez** - [GitHub](https://github.com/esdonmez)
 
 ## License
-Horoscoper is released under the [MIT License](LICENSE).
+Checkit is released under the [MIT License](LICENSE).
