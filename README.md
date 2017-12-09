@@ -1,5 +1,5 @@
 # Checkit
-ToDo List project for iOS with Swift 4.
+>To-do List project for iOS with Swift 4.
 
 ## Images
 <div>
